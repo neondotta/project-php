@@ -23,17 +23,17 @@
     		</tr>
     		<tr>
     			<td>Code Education</td>
-    			<td><a href="http://portal.code.education/">Portal</a></td>
+    			<td><a href="http://portal.code.education/" target="_blank">Portal</a></td>
     			<td>Videos para estudo</td>
     		</tr>
     		<tr>
     			<td>GitHub</td>
-    			<td><a href="https://github.com/">Página Inicial</a></td>
+    			<td><a href="https://github.com/" target="_blank">Página Inicial</a></td>
     			<td>Repositórios online</td>
     		</tr>
     		<tr>
     			<td>Bootstrap</td>
-    			<td><a href="http://getbootstrap.com/">Página Inicial</a></td>
+    			<td><a href="http://getbootstrap.com/" target="_blank">Página Inicial</a></td>
     			<td>FrameWork - HTML, CSS e JS</td>
     		</tr>
 		</table>
