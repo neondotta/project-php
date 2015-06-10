@@ -10,6 +10,7 @@
 	<link href="css/style.css" rel="stylesheet">
 </head>
 <body>
+
 	<?php require_once("menu.php");?>
 
 	<div class="panel panel-default">
